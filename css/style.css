@@ -1,0 +1,58 @@
+body{
+	height: 1600px;
+}
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 4px;
+	margin-left: 140px; 
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 119px;
+
+}
+
+.nav-1{
+	display: inline-block;
+	margin-right: 22px;
+
+	
+}
+.header1{
+	position: fixed;
+	top:0;
+	left:0;
+	width: 100%;
+}
+.section-wrapper{
+	margin-top: 150px;
+}
+.image-1{
+	width: 100%;
+}
+.text-image{
+	position: absolute;
+	top:105px;
+	left:550px;
+	font-size: 22px;
+	color: #FFFFFF;
+}
+.image-wraper{
+	position: relative;
+}
+.text-image1{
+	position: absolute;
+	top:132px;
+	left:600px;
+	font-size: 48px;
+	color: #FFFFFF;
+}
+
+.post{
+	font-size: 22px;
+	color: #FF7A00;
+	margin-top: 82px;
+	margin-left: 165px;
+}
