@@ -14,6 +14,7 @@ body{
 	margin-left: 119px;
 	
 
+
 }
 
 .nav-1{
@@ -128,4 +129,51 @@ body{
 .black1{
 	width: 100%;
 	margin-top: 147px;
+}
+
+.ftr1{
+	width: 263px;
+	height: 220px;
+	display: inline-block;
+	margin-top: 82px;
+	margin-left: 25px;
+	/*background-color: yellow;*/
+
+}
+.cmpn1{
+	font-size: 24px;
+	color: #282828;
+}
+.nav-10{
+	margin-top: 15px;
+	color: #7B7B7B;
+}
+.nav-3{
+	margin-top: 7px;
+}
+
+/*.ftr2{
+	width: 236px;
+	height: 220px;
+	display: inline-block;
+	margin-top: 82px;
+	margin-left: 132px;
+
+}*/
+
+.last-div{
+	display: inline-block;
+	width: 218px;
+	height: 115px;
+	/*background-color: yellow;*/
+	margin-left:150px;
+	vertical-align: top;
+	margin-top: 85px;
+}
+
+.lastp{
+	font-size: 16px;
+	color: #A4A4A4;
+	display: inline-block;
+	margin-left: 985px;
 }
