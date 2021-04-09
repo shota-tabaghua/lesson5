@@ -1,6 +1,7 @@
 body{
 	height: 1600px;
 }
+
 .logo{
 	display: inline-block;
 	vertical-align: middle;
@@ -11,12 +12,14 @@ body{
 	display: inline-block;
 	vertical-align: middle;
 	margin-left: 119px;
+	
 
 }
 
 .nav-1{
 	display: inline-block;
 	margin-right: 22px;
+
 
 	
 }
@@ -25,6 +28,7 @@ body{
 	top:0;
 	left:0;
 	width: 100%;
+	z-index: 30;
 }
 .section-wrapper{
 	margin-top: 150px;
@@ -55,4 +59,73 @@ body{
 	color: #FF7A00;
 	margin-top: 82px;
 	margin-left: 165px;
+}
+
+.container{
+	width: 1330px;
+	height: 665px;
+	margin: 0 auto;
+	margin-top:81px;
+	
+
+}
+.left-block{
+	display: inline-block;
+	width: 638px;
+	
+}
+	
+.right-block{
+	display: inline-block;
+	width: 638px;
+	margin-left: 52px;
+	
+
+}
+.text102{
+	font-size: 36px;
+	color: #181C28;
+	margin-top:20px;
+
+}
+
+.ph1{
+	font-size:16px;
+	color: #7B7B7B;
+	margin-top:22px;
+}
+.read1{
+	font-size:16px;
+	color: #FF7A00;
+	margin-top:13px;
+	display: inline-block;
+}
+.line1{
+	width: 47px;
+	height: 4px;
+	background-color: #FF7A00;
+	display: inline-block;
+	margin-left: 18px;
+	vertical-align: middle;
+}
+
+.load1{
+   width: 190px;
+   height: 70px;
+  background-color: #FF7A00;
+  position: absolute;
+  margin-top: 66px;
+  margin-left: 560px;
+  }
+
+.test{
+	position: absolute;
+	top: 26px;
+	left:45px;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.black1{
+	width: 100%;
+	margin-top: 147px;
 }
